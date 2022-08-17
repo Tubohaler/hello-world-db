@@ -4,5 +4,25 @@
     "knex": "^2.2.0",
     "pg": "^8.7.3",
     "sqlite3": "^5.0.11"
-  }
+  },
+  "name": "hello-world-db",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tubohaler/hello-world-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tubohaler/hello-world-db/issues"
+  },
+  "homepage": "https://github.com/Tubohaler/hello-world-db#readme"
 }
